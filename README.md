@@ -1,2 +1,2 @@
 # html-css
-gaia - compilador de ferramentas IAs
+Gaia - compilador de ferramentas IAs
